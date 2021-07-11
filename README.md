@@ -1,5 +1,8 @@
 # Shopping Cart
-Website inspirado na escola de magia da série de livros Harry Potter. Projeto em dupla da [Trybe](https://www.betrybe.com/) para treino de manipulação DOM, responsividade e a criação de interfaces de login e formulários.
+Website desenvolvido pelos alunos da [Trybe](https://www.betrybe.com/) para treino do uso de APIs, construção de Promises, manipulação de dados, entre outros.
+
+- [Repositório do projeto](https://github.com/tryber/sd-013-a-project-shopping-cart)
+- [Link do API utilizado](https://api.mercadolibre.com/sites/)
 
 ## Acesso
-Disponível em [Github Pages](https://pedrotrasfereti.github.io/shopping-cart/). 🧙✨
+Disponível em [Github Pages](https://pedrotrasfereti.github.io/trybe-shopping-cart/). 🛍️💳
