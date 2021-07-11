@@ -1,5 +1,5 @@
 # Shopping Cart
-Website desenvolvido pelos alunos da [Trybe](https://www.betrybe.com/) para treino do uso de APIs, construção de Promises, manipulação de dados, entre outros.
+Website desenvolvido pelos alunos da [Trybe](https://www.betrybe.com/) para treino do uso de APIs, construção de Promises, manipulação de objetos JSON, entre outros.
 
 - [Repositório do projeto](https://github.com/tryber/sd-013-a-project-shopping-cart)
 - [Link do API utilizado](https://api.mercadolibre.com/sites/)
