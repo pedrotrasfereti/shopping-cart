@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Shopping Cart</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet"> 
+  </head>
+  
+  <body>
+
+    <header>
+      <div class="header">
+        <i class="material-icons" id="shopping-cart">shopping_cart</i>
+        <h1 id="title">Shopping Cart</h1>
+      </div>
+      <div>
+        <input id="search_input" type="text" maxlength="29" placeholder="Buscar por produtos, marcas e mais...">
+      </div>
+      <nav>
+        <i class="material-icons" id="menu">
+          menu
+        </i>
+        <div class="drop-down">
+          <ul>
+            <li><a href="https://github.com/pedrotrasfereti">Voltar para o portifólio</a></li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+    
+    <main>
+      <section class="container">
+        <section class="items">
+          <div class="items_head">
+            <h2 class="items_title">Produtos</h2>
+            <hr class="hr-big">
+          </div>
+        <p class="loading">loading...</p>
+        </section>
+        <section class="cart">
+          <div class="cart-container">
+            <div class="cart_head">
+              <h2 class="cart__title">Seu Carrinho</h2>
+              <hr class="hr-small">
+            </div>
+            <div class="cart_list">
+              <ol class="cart__items"></ol>
+            </div>
+            <div class="total">
+              <p>Total: $<span class="total-price">0.00</span></p>
+            </div>
+            <div class="cart_options">
+              <button class="button empty-cart">Esvaziar carrinho</button>
+            </div>
+          </div>
+        </section>
+      </section>
+    </main>
+    <footer>
+      <p class="scroll-top">Voltar para cima</p>
+      <p class="rr">&#174 Pedro Trasfereti, 2021.</p>
+      <div class="socials">
+        <a href="https://github.com/pedrotrasfereti" target="_blank"><img alt="GitHub" src="images/github_logo.png"></a>
+        <a href="https://linkedin.com/in/pedro-trasfereti/" target="_blank"><img alt="LinkedIn" src="images/linkedin_logo.png"></a>
+        <a href="https://wa.me/5519987050602" target="_blank"><img alt="WhatsApp" src="images/whatsapp_logo.png"></a>
+      </div>
+    </footer>
+    <button class="scroll-top-btn">
+      <i class="material-icons">
+        arrow_upward
+        </i>
+    </button>
+  </body>
+  <script src="script.js"></script>
+  
+  </html>
