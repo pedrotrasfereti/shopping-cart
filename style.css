@@ -320,6 +320,7 @@ main {
 
 .loading {
   color: #333;
+  font-family: 'Roboto', sans-serif;
   font-size: 26px;
   text-align: center;
   text-transform: capitalize;
