@@ -5,4 +5,4 @@ Website desenvolvido pelos alunos da [Trybe](https://www.betrybe.com/) para trei
 - [Link do API utilizado](https://api.mercadolibre.com/sites/)
 
 ## Acesso
-Disponível em [Github Pages](https://pedrotrasfereti.github.io/trybe-shopping-cart/). 🛍️💳
+Disponível em [Github Pages](https://pedrotrasfereti.github.io/shopping-cart/). 🛍️💳
